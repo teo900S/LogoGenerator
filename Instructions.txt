@@ -1,0 +1,26 @@
+#############################################################
+
+INSTRUCTIONS
+
+
+1. Ensure all .pde files are inside 
+Herman_LogoGenerator_20180122 folder
+
+2. If needed download and install Processing IDE 
+https://processing.org/download/
+
+3. Add ControlP5 library. 
+a) Select "Add Library..." from the "Import Library..." 
+submenu within the Sketch menu
+
+or 
+
+b) Direct download link:
+http://www.sojamo.de/libraries/controlP5/
+
+Then add controlP5 to processing/libraries
+ 
+Takes a few seconds for program to load.
+
+
+Thanks for downloading.
